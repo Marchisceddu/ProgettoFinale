@@ -1,0 +1,3 @@
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/cmake-build-debug/CMakeFiles/ProgettoFinale.dir
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

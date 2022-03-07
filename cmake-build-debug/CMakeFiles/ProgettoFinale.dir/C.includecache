@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/Giochi.c
+Giochi.h
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/Giochi.h
+
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/Giochi.h
+Salvataggi.h
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/Salvataggi.h
+
+D:/Desktop/Programmazione/C Uni/ProgettoFinale/Salvataggi.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+math.h
+-
+time.h
+-
+
